@@ -73,17 +73,15 @@ Click the Run button to execute the automation.<br>
 UiPath will launch Notepad, type the text, save the file, and close the application automatically.
 
 ## UiPath WorkFlow:
-
-![alt text](<img/Screenshot 2024-09-27 183413.png>)
-![alt text](<img/Screenshot 2024-09-27 183646.png>)
-![alt text](<img/Screenshot 2024-09-27 183814.png>)
-![alt text](<img/Screenshot 2024-09-27 183914.png>)
-![alt text](<img/Screenshot 2024-09-27 183958.png>)
-![alt text](<img/Screenshot 2024-09-27 184103.png>)
-![alt text](<img/Screenshot 2024-09-27 184156.png>)
-![alt text](<img/Screenshot 2024-09-27 184314.png>)
-![alt text](<img/Screenshot 2024-09-27 184350.png>)
-![alt text](<img/Screenshot 2024-09-27 190008.png>)
+![image](https://github.com/user-attachments/assets/9b77fcf5-1244-4dd6-a70d-0677ff81913f)
+![image](https://github.com/user-attachments/assets/9687b60e-ab94-4444-b0d7-c939a2d46542)
+![image](https://github.com/user-attachments/assets/6e114f08-5db5-4753-875b-d8e17d3d15ea)
+![image](https://github.com/user-attachments/assets/49dbe904-22d5-4342-be9a-a43d810ea5fa)
+![image](https://github.com/user-attachments/assets/23eab67d-8775-4ab1-b05c-99ccb0c30b94)
+![image](https://github.com/user-attachments/assets/9a3129e7-6367-4f00-888d-f882d3b3f7b3)
+![image](https://github.com/user-attachments/assets/40424985-ea0c-4887-9a6b-0425a5ba32c6)
+![image](https://github.com/user-attachments/assets/c2664911-98dd-4cd5-b41d-1b76176bdf74)
+![image](https://github.com/user-attachments/assets/3f470744-1be9-4823-a671-bd51cc38734d)
 
 ## Result:
 
